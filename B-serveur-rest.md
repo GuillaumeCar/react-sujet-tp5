@@ -10,7 +10,7 @@ Ce serveur (_basé sur [Express.js](http://expressjs.com/)_) fournit une API RES
 
 1. **Commencez par cloner le serveur :**
 	```bash
-	git clone https://framagit.org/cours-react/api-server.git ~/tps-react/api-server
+	git clone https://github.com/GuillaumeCar/react-api-server.git ~/tps-react/api-server
 	```
 2. **Installez ensuite les dépendances du serveur :**
 	```bash
